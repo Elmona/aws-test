@@ -19,8 +19,6 @@
   ],
   "author": "Emil Larsson",
   "license": "MIT",
-  "dependencies": {
-  },
-  "devDependencies": {
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
