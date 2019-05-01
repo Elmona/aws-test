@@ -1,0 +1,26 @@
+{
+  "name": "javaScript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sam local invoke --event event.json",
+    "dev": "nodemon --exec npm start",
+    "deploy": "sh ./deploy.sh"
+  },
+  "keywords": [
+    "Check",
+    "the",
+    "image",
+    "type",
+    "of",
+    "an",
+    "binary"
+  ],
+  "author": "Emil Larsson",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
