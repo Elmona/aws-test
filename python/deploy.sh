@@ -7,8 +7,6 @@ LAMBDA_FUNCTION_ROLE_ARN=arn:aws:iam::364107138694:role/test
 LAMBDA_FUNCTION_RUNTIME=python3.6
 HANDLER=hello.handler
 
-zip -r ./build/lambda.zip *
-
 echo "Check if lamba function exists..."
 aws lambda get-function --function-name ${LAMBDA_FUNCTION_NAME} --region ${LAMBDA_FUNCTION_REGION}
 
