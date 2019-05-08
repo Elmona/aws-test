@@ -10,6 +10,5 @@ deploy csharp
 deploy go
 deploy java
 deploy javaScript
-deploy perl
 deploy python
 deploy ruby

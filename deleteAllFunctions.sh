@@ -9,6 +9,5 @@ delete test-csharp
 delete test-go
 delete test-java
 delete test-javaScript
-delete test-perl
 delete test-python
 delete test-ruby
