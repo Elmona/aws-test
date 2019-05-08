@@ -1,0 +1,11 @@
+/home/emil/code/aws-test/csharp/test-csharp/test-aws/src/test-aws/bin/Release/netcoreapp2.1/rhel.7.2-x64/test-aws.deps.json
+/home/emil/code/aws-test/csharp/test-csharp/test-aws/src/test-aws/bin/Release/netcoreapp2.1/rhel.7.2-x64/test-aws.runtimeconfig.json
+/home/emil/code/aws-test/csharp/test-csharp/test-aws/src/test-aws/bin/Release/netcoreapp2.1/rhel.7.2-x64/test-aws.runtimeconfig.dev.json
+/home/emil/code/aws-test/csharp/test-csharp/test-aws/src/test-aws/bin/Release/netcoreapp2.1/rhel.7.2-x64/test-aws.dll
+/home/emil/code/aws-test/csharp/test-csharp/test-aws/src/test-aws/bin/Release/netcoreapp2.1/rhel.7.2-x64/test-aws.pdb
+/home/emil/code/aws-test/csharp/test-csharp/test-aws/src/test-aws/obj/Release/netcoreapp2.1/rhel.7.2-x64/test-aws.csprojAssemblyReference.cache
+/home/emil/code/aws-test/csharp/test-csharp/test-aws/src/test-aws/obj/Release/netcoreapp2.1/rhel.7.2-x64/test-aws.csproj.CoreCompileInputs.cache
+/home/emil/code/aws-test/csharp/test-csharp/test-aws/src/test-aws/obj/Release/netcoreapp2.1/rhel.7.2-x64/test-aws.AssemblyInfoInputs.cache
+/home/emil/code/aws-test/csharp/test-csharp/test-aws/src/test-aws/obj/Release/netcoreapp2.1/rhel.7.2-x64/test-aws.AssemblyInfo.cs
+/home/emil/code/aws-test/csharp/test-csharp/test-aws/src/test-aws/obj/Release/netcoreapp2.1/rhel.7.2-x64/test-aws.dll
+/home/emil/code/aws-test/csharp/test-csharp/test-aws/src/test-aws/obj/Release/netcoreapp2.1/rhel.7.2-x64/test-aws.pdb
