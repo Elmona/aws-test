@@ -1,12 +1,10 @@
 #!/bin/bash
 
 HANDLER=io.symphonia.Hello::handler
-LAMBDA_FUNCTION_NAME=javatest
+LAMBDA_FUNCTION_NAME=test-java
 LAMBDA_FUNCTION_REGION=eu-north-1
 LAMBDA_FUNCTION_ROLE_ARN=arn:aws:iam::364107138694:role/test
 LAMBDA_FUNCTION_RUNTIME=java8
-
-# TODO Add mvn package here
 
 echo "Check if lamba function exists..."
 aws lambda get-function --function-name ${LAMBDA_FUNCTION_NAME} --region ${LAMBDA_FUNCTION_REGION}
