@@ -18,5 +18,5 @@
 | JavaScript | 0.23ms | 0.521ms | 18.3ms | 
 | Go | 0.27ms | 0.331ms | 1.72ms | 
 | Java | 0.27ms | 8.15ms | 71.1ms | 
-| CSharp | 1115ms | 128ms |  0.13ms | 
+| CSharp | 0.13ms | 128ms | 1115ms | 
 
