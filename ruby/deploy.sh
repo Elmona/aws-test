@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Read environment variables from file if .env exists.
-LAMBDA_FUNCTION_NAME=test-ruby
+LAMBDA_FUNCTION_NAME=test-ruby1
 LAMBDA_FUNCTION_REGION=eu-north-1
 LAMBDA_FUNCTION_ROLE_ARN=arn:aws:iam::364107138694:role/test
 LAMBDA_FUNCTION_RUNTIME=ruby2.5
