@@ -1,4 +1,4 @@
-# Repsitory for testing AWS Lambda
+# Repository for testing AWS Lambda
   
 ## Cold start
 | Language | Time in ms |
